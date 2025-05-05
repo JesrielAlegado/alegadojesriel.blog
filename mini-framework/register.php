@@ -35,7 +35,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             padding: 20px;
             background: #fff;
             border-radius: 8px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            box-shadow: 0 4px 12px rgb(2, 70, 73);
         }
         h2 {
             text-align: center;
@@ -52,7 +52,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         button {
             width: 100%;
             padding: 12px;
-            background-color: #137a7f;
+            background-color:rgb(2, 70, 73);
             color: white;
             border: none;
             border-radius: 4px;
@@ -60,7 +60,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             font-size: 16px;
         }
         button:hover {
-            background-color: #86cecb;
+            background-color: rgb(2, 70, 73);
         }
         .footer {
             text-align: center;
